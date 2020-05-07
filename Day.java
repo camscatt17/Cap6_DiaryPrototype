@@ -83,10 +83,19 @@ public class Day
                 int duration = appointment.getDuration();
                 // Fill in all the slots for the full duration
                 // of the appointment.
+                if(duration >= 2 && startTime == 8){
+                    return false;
+                }
+                else if(duration >= 2 && appointments[startTime+1]!=null){
+                    return false;
+                }
+                else{
                 for(int i = 0; i < duration; i++) {
                     appointments[startTime + i] = appointment;
                 }
                 return true;
+            }
+            
             }
             else {
                 return false;
