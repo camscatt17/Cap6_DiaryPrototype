@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CalcEngineTest
+comment0.text=\r\n\ A\ classe\ de\ teste\ CalcEngineTest.\r\n\r\n\ @author\ \ (seu\ nome)\r\n\ @version\ (um\ n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=CalcEngineTest()
+comment1.text=\r\n\ Construtor\ default\ para\ a\ classe\ de\ teste\ CalcEngineTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Define\ a\ .\r\n\r\n\ Chamado\ antes\ de\ cada\ m\u00E9todo\ de\ caso\ de\ teste.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Chamado\ ap\u00F3s\ cada\ m\u00E9todo\ de\ teste\ de\ caso.\r\n
+comment4.params=
+comment4.target=void\ testPlus()
+comment5.params=
+comment5.target=void\ minusTest()
+comment6.params=
+comment6.target=void\ testAllOperations()
+comment7.params=
+comment7.target=void\ testSequenceOfOperations()
+numComments=8
